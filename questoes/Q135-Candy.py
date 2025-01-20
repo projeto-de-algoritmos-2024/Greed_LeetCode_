@@ -1,17 +1,16 @@
-def candy(ratings):
-    n = len(ratings)
-    left = [1] * n
-    right = [1] * n
+class Solution:
+    def candy(self, ratings):
+        n = len(ratings)
+        candies = [1] * n  # Inicialmente, todas as crianças recebem 1 bala
 
-    # Passagem da esquerda para a direita
-    for i in range(1, n):
-        if ratings[i] > ratings[i - 1]:
-            left[i] = left[i - 1] + 1
+        # Passagem da esquerda para a direita
+        for i in range(1, n):
+            if ratings[i] > ratings[i - 1]:
+                candies[i] = candies[i - 1] + 1
 
-    # Passagem da direita para a esquerda
-    for i in range(n - 2, -1, -1):
-        if ratings[i] > ratings[i + 1]:
-            right[i] = right[i + 1] + 1
+        # Passagem da direita para a esquerda (acumulando o resultado final)
+        for i in range(n - 2, -1, -1):
+            if ratings[i] > ratings[i + 1]:
+                candies[i] = max(candies[i], candies[i + 1] + 1)
 
-    # Calcular o resultado somando os valores máximos de cada posição
-    return sum(max(left[i], right[i]) for i in range(n))
+        return sum(candies)
