@@ -15,15 +15,19 @@ O objetivo desse repositório e acompanhar os conteúdos discutidos na disciplin
 Adicione 3 ou mais screenshots do projeto em funcionamento.
 
 ## Instalação 
-**Linguagem**: Python<br>
+**Linguagem**: Python e C#<br>
 Ter a linguagem instalada no local de teste.
 
 ## Questões Resolvidas 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
+- [Questão 55 - Jump Game](questoes/Q55-JumpGame.py)
+- [Questão 135 - Candy](questoes/Q135-Candy.py)
+- [Questão 330 - PatchingArray](questoes/Q330-PatchingArray.cs)
+- [Questão 670 - Maximum Swap](questoes/Q670-MaximumSwap.cs)
 
-## Questões extras 
+## Videos das resoluções das questões
 
-
-
-
+- 55: 
+- 135:
+- 330: https://www.youtube.com/watch?v=AHmK2KKDa7Y
+- 670: https://www.youtube.com/watch?v=IjittQGFyhY
 
