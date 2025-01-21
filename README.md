@@ -12,7 +12,13 @@
 O objetivo desse repositório e acompanhar os conteúdos discutidos na disciplina de Programas e Algoritmos e aplicar o conhecimento em algoritmos ambiciosos nas resoluções de questões do juiz online Leetcode
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+- Candy 135
+[print1](assets/candy1.jpeg)
+[print2](assets/candy2.jpeg)
+
+- Jump Game 55
+[print3](assets/jump1.jpeg)
+[print4](assets/jump2.jpeg)
 
 ## Instalação 
 **Linguagem**: Python e C#<br>
