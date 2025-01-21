@@ -27,7 +27,7 @@ Ter a linguagem instalada no local de teste.
 ## Videos das resoluções das questões
 
 - 55: 
-- 135:
+- 135: https://youtu.be/17yQjafymxM
 - 330: https://www.youtube.com/watch?v=AHmK2KKDa7Y
 - 670: https://www.youtube.com/watch?v=IjittQGFyhY
 
