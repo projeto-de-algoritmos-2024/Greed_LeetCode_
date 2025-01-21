@@ -12,11 +12,11 @@
 O objetivo desse repositório e acompanhar os conteúdos discutidos na disciplina de Programas e Algoritmos e aplicar o conhecimento em algoritmos ambiciosos nas resoluções de questões do juiz online Leetcode
 
 ## Screenshots
-- Candy 135
+- Candy 135 (Difícil)
 ![print1](assets/candy1.jpeg)
 ![print2](assets/candy2.jpeg)
 
-- Jump Game 55
+- Jump Game 55 (Média)
 ![print3](assets/jump1.jpeg)
 ![print4](assets/jump2.jpeg)
 
@@ -25,10 +25,10 @@ O objetivo desse repositório e acompanhar os conteúdos discutidos na disciplin
 Ter a linguagem instalada no local de teste.
 
 ## Questões Resolvidas 
-- [Questão 55 - Jump Game](questoes/Q55-JumpGame.py)
-- [Questão 135 - Candy](questoes/Q135-Candy.py)
-- [Questão 330 - PatchingArray](questoes/Q330-PatchingArray.cs)
-- [Questão 670 - Maximum Swap](questoes/Q670-MaximumSwap.cs)
+- [Questão 55 - Jump Game (Média)](questoes/Q55-JumpGame.py)
+- [Questão 135 - Candy (Difícil)](questoes/Q135-Candy.py)
+- [Questão 330 - PatchingArray (Difícil))](questoes/Q330-PatchingArray.cs)
+- [Questão 670 - Maximum Swap (Média)](questoes/Q670-MaximumSwap.cs)
 
 ## Videos das resoluções das questões
 
